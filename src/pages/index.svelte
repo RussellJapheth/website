@@ -168,13 +168,13 @@
                             <span class="fa fa-code" aria-hidden="true" />
                         </div>
                         <div class="icon-info">
-                            <h5><a href="#"> Website Design</a></h5>
+                            <h5><a href="#!"> Website Design</a></h5>
                             <p>
                                 Lorem ipsum dolor sit amet, consectetur
                                 adipisicingelit, sed do eiusmod tempor
                                 incididunt
                             </p>
-                            <a href="#" class="red mt-3"
+                            <a href="#!" class="red mt-3"
                                 >Read More <span
                                     class="fa fa-angle-right pl-1"
                                 /></a
@@ -188,13 +188,13 @@
                             <span class="fa fa-cogs" aria-hidden="true" />
                         </div>
                         <div class="icon-info">
-                            <h5><a href="#">Web Development </a></h5>
+                            <h5><a href="#!">Web Development </a></h5>
                             <p>
                                 Lorem ipsum dolor sit amet, consectetur
                                 adipisicingelit, sed do eiusmod tempor
                                 incididunt
                             </p>
-                            <a href="#" class="red mt-3"
+                            <a href="#!" class="red mt-3"
                                 >Read More <span
                                     class="fa fa-angle-right pl-1"
                                 /></a
@@ -208,13 +208,13 @@
                             <span class="fa fa-mobile" aria-hidden="true" />
                         </div>
                         <div class="icon-info">
-                            <h5><a href="#">App Development</a></h5>
+                            <h5><a href="#!">App Development</a></h5>
                             <p>
                                 Lorem ipsum dolor sit amet, consectetur
                                 adipisicingelit, sed do eiusmod tempor
                                 incididunt
                             </p>
-                            <a href="#" class="red mt-3"
+                            <a href="#!" class="red mt-3"
                                 >Read More <span
                                     class="fa fa-angle-right pl-1"
                                 /></a
@@ -226,13 +226,13 @@
                             <span class="fa fa-lock" aria-hidden="true" />
                         </div>
                         <div class="icon-info">
-                            <h5><a href="#">Cyber Security</a></h5>
+                            <h5><a href="#!">Cyber Security</a></h5>
                             <p>
                                 Lorem ipsum dolor sit amet, consectetur
                                 adipisicingelit, sed do eiusmod tempor
                                 incididunt
                             </p>
-                            <a href="#" class="red mt-3"
+                            <a href="#!" class="red mt-3"
                                 >Read More <span
                                     class="fa fa-angle-right pl-1"
                                 /></a
@@ -244,13 +244,13 @@
                             <span class="fa fa-bar-chart" aria-hidden="true" />
                         </div>
                         <div class="icon-info">
-                            <h5><a href="#"> Digital Marketing</a></h5>
+                            <h5><a href="#!"> Digital Marketing</a></h5>
                             <p>
                                 Lorem ipsum dolor sit amet, consectetur
                                 adipisicingelit, sed do eiusmod tempor
                                 incididunt
                             </p>
-                            <a href="#" class="red mt-3"
+                            <a href="#!" class="red mt-3"
                                 >Read More <span
                                     class="fa fa-angle-right pl-1"
                                 /></a
@@ -262,13 +262,13 @@
                             <span class="fa fa-info" aria-hidden="true" />
                         </div>
                         <div class="icon-info">
-                            <h5><a href="#">Other Catagory</a></h5>
+                            <h5><a href="#!">Other Catagory</a></h5>
                             <p>
                                 Lorem ipsum dolor sit amet, consectetur
                                 adipisicingelit, sed do eiusmod tempor
                                 incididunt
                             </p>
-                            <a href="#" class="red mt-3"
+                            <a href="#!" class="red mt-3"
                                 >Read More <span
                                     class="fa fa-angle-right pl-1"
                                 /></a
