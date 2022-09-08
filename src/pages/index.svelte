@@ -14,7 +14,7 @@
     <section class="w3l-bootstrap-header">
         <nav class="navbar navbar-expand-lg navbar-light py-lg-3 py-2">
             <div class="container">
-                <a class="navbar-brand" href="/"> My Website</a>
+                <a class="navbar-brand" href="/"> Russell</a>
             </div>
         </nav>
     </section>
@@ -26,14 +26,14 @@
                     <div class="slider-info banner-view text-center">
                         <div class="banner-info container">
                             <img
-                                src="assets/images/c1.jpg"
+                                src="assets/images/avatar.png"
                                 class="img-fluid"
                                 alt="Russell"
                             />
                             <h3 class="banner-text mt-5">
-                                Hello, I’m Mark Waugh
+                                Hello, I’m Japheth Rusell
                             </h3>
-                            <p class="my-4 mb-5">Photographer</p>
+                            <p class="my-4 mb-5">Backend Developer</p>
                             <br />
                         </div>
                     </div>
